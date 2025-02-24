@@ -13,7 +13,7 @@ for Azure Policy.
 
 ## Azure Policy
 
-[!INCLUDE [azure-resource-graph-samples-cat-policy](../../includes/policy/azure-policy.md)]
+[!INCLUDE [azure-resource-graph-samples-cat-policy](../../includes/policy/azure-policy.md)]hn
 
 ## Azure Policy exemptions
 
