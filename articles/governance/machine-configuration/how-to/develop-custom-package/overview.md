@@ -27,7 +27,7 @@ both Windows and Linux. The DSC configuration defines the condition that the mac
 > Don't use secrets or confidential information in custom content packages.
 
 Use the following steps to develop your own configuration for managing the state of an Azure or
-non-Azure machine.
+non-Azure machine. Hello World!
 
 1. [Set up a machine configuration authoring environment][03]
 1. [Create a custom machine configuration package artifact][04]
